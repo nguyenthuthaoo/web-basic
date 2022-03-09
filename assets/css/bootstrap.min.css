@@ -1391,15 +1391,13 @@ th {
 html {
     font-size: 10px;
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-    font-family: "Noto Sans JP", "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro",
-    "メイリオ", Meiryo, YuGothic, "游ゴシック", "ＭＳ Ｐゴシック", "MS PGothic",
-    arial, sans-serif;
+    font-family: "Noto Sans JP", "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, YuGothic, "游ゴシック", "ＭＳ Ｐゴシック", "MS PGothic", arial, sans-serif;
 }
 
 body {
     font-size: 18px;
     line-height: 28px;
-    color: #333;
+    color: rgb(74, 74, 74);
     background-color: #fff;
     font-weight: 500;
     font-family: "Noto Sans JP";
