@@ -1,0 +1,12 @@
+defaultPortal: '2661267'
+portals:
+  - name: '2661267'
+    portalId: 2661267
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CPOqlYz3LxIJAA0AAAAA4A0DGJO3ogEg9ue1Cyju6QwyFP5R4vWnvCx4_cmwYCYdtSuPoRMLOigAAARBAAAAeAAAAAAAAAAAAAAAAAAAAAQAAMAHAP7_MTwAAAYAAABgQhSdoOFXNbi68t_6MfDLNIp4wnOY4koDbmExUgBaAA
+        expiresAt: '2022-03-10T01:50:37.943Z'
+    personalAccessKey: >-
+      CiQ5MjNmZmJkZC1jNDkyLTRjNzctYmYwOS1kYjAxMDNhYjM3ODEQk7eiARj257ULKhkABeaRglJNMHHWGazsT1XzcQAtsmdXs4lxSgNuYTE
